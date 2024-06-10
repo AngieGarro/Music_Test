@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOs", "DTOs\DTOs.csproj", "{887E14C8-9118-4412-B8CE-A310F584A1F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. DTOs", "1. DTOs", "{44754DED-F240-4DBE-B7F6-102FB4C969D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. DataAccess", "2. DataAccess", "{B3D90484-7744-4CD9-814A-8DBDCE862AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{7076AB51-5961-4D30-B957-132FC4722972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicManagers", "..\LogicManagers\LogicManagers.csproj", "{0AE19940-B5A8-4005-9017-FF49A3C6E77F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. LogicManagers", "3. LogicManagers", "{04ACC878-FF3E-4EB9-ABE7-26407DD1B283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI_TestMusicProject", "..\WebAPI_TestMusicProject\WebAPI_TestMusicProject.csproj", "{5F7E8955-E264-43AE-AAD1-89BA50165840}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. WebAPI", "4. WebAPI", "{8D1513EC-2944-44DB-875D-62131E1675D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887E14C8-9118-4412-B8CE-A310F584A1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887E14C8-9118-4412-B8CE-A310F584A1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887E14C8-9118-4412-B8CE-A310F584A1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887E14C8-9118-4412-B8CE-A310F584A1F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7076AB51-5961-4D30-B957-132FC4722972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7076AB51-5961-4D30-B957-132FC4722972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7076AB51-5961-4D30-B957-132FC4722972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7076AB51-5961-4D30-B957-132FC4722972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE19940-B5A8-4005-9017-FF49A3C6E77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE19940-B5A8-4005-9017-FF49A3C6E77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE19940-B5A8-4005-9017-FF49A3C6E77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE19940-B5A8-4005-9017-FF49A3C6E77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7E8955-E264-43AE-AAD1-89BA50165840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7E8955-E264-43AE-AAD1-89BA50165840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7E8955-E264-43AE-AAD1-89BA50165840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7E8955-E264-43AE-AAD1-89BA50165840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{887E14C8-9118-4412-B8CE-A310F584A1F1} = {44754DED-F240-4DBE-B7F6-102FB4C969D9}
+		{7076AB51-5961-4D30-B957-132FC4722972} = {B3D90484-7744-4CD9-814A-8DBDCE862AEC}
+		{0AE19940-B5A8-4005-9017-FF49A3C6E77F} = {04ACC878-FF3E-4EB9-ABE7-26407DD1B283}
+		{5F7E8955-E264-43AE-AAD1-89BA50165840} = {8D1513EC-2944-44DB-875D-62131E1675D6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BB2A186-29FD-4A46-9427-A92857D73929}
+	EndGlobalSection
+EndGlobal

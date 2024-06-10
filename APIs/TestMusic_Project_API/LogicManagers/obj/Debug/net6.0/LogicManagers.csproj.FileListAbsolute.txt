@@ -1,0 +1,17 @@
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\bin\Debug\net6.0\LogicManagers.deps.json
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\bin\Debug\net6.0\LogicManagers.dll
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\bin\Debug\net6.0\LogicManagers.pdb
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\bin\Debug\net6.0\DataAccess.dll
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\bin\Debug\net6.0\DTOs.dll
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\bin\Debug\net6.0\DTOs.pdb
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicManagers.csproj.AssemblyReference.cache
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicManagers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicManagers.AssemblyInfoInputs.cache
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicManagers.AssemblyInfo.cs
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicManagers.csproj.CoreCompileInputs.cache
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicManagers.dll
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\refint\LogicManagers.dll
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicManagers.pdb
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\ref\LogicManagers.dll
+C:\Users\angie\OneDrive\Documentos\TestMusic_Project_API\LogicManagers\obj\Debug\net6.0\LogicMan.E57636CF.Up2Date
